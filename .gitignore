@@ -13,3 +13,4 @@ electron/node_modules/
 ./lib
 electron/app/app
 electron/dist
+.idea
